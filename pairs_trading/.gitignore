@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+
+# Data cache (keep the folder + its README, ignore everything else)
+data/*
+!data/README.md
+
+# OS
+.DS_Store
